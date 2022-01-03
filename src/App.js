@@ -9,7 +9,7 @@ function App(){
   return(
     <>
       <Hello />
-      <div>안녕히계세요</div>
+      <div>안녕!</div>
     </>
   );
 }
